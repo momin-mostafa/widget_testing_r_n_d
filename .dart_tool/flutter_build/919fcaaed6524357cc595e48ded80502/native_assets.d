@@ -1,0 +1,1 @@
+ /Users/mdalmominmostafa/Developer/biniyog/widget_testing_r_n_d/.dart_tool/flutter_build/919fcaaed6524357cc595e48ded80502/native_assets.yaml: 
